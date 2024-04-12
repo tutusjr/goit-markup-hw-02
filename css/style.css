@@ -23,27 +23,27 @@ body{
 .span{
     color: #2E2F42;
 }
-.header-ul li{
+.header-ul .list{
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.header-ul li:hover,
-.header-ul li:active{
+.header-ul .list:hover,
+.header-ul .list:active{
     color: #404bbf;
 }
 .address{
     font-style: normal;
 }
-.address-link li{
+.address-link .list{
     color: #434455;
     letter-spacing: 0.02em;
     line-height: 1.5;
 }
-.address-link li:hover,
-.address-link li:active{
+.address-link .list:hover,
+.address-link .list:active{
     color: #404BBF;
 }
 .button{
@@ -61,6 +61,7 @@ body{
     background-color:#404BBF;
     color: #ffffff;
 }
+
 .our-team{
     background-color: #F4F4FD;
 }
@@ -85,14 +86,14 @@ body{
 }
 
 
-.section2-ul li .h33{
+.section2-ul .list .h33{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section2-ul li .ppp{
+.section2-ul .list .ppp{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -103,14 +104,14 @@ body{
     background-color: #ffffff;
 }
 
-.section3-ul li .h33{
+.section3-ul .list .h33{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section3-ul li .ppp{
+.section3-ul .list .ppp{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -126,14 +127,14 @@ body{
     color: #2e2f42;
 }
 
-.section4-ul li .h33{
+.section4-ul .list .h33{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section4-ul li .ppp{
+.section4-ul .list .ppp{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
