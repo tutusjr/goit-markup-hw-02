@@ -31,7 +31,7 @@ body{
     color: #2E2F42;
 }
 .header-ul .list .etiket:hover,
-.header-ul .list .etiket:active{
+.header-ul .list .etiket:focus{
     color: #404bbf;
 }
 .address{
@@ -43,7 +43,7 @@ body{
     line-height: 1.5;
 }
 .address-link .list .etiket:hover,
-.address-link .list .etiket:active{
+.address-link .list .etiket:focus{
     color: #404BBF;
 }
 .button{
@@ -57,7 +57,7 @@ body{
     cursor: pointer;
 }
 .button:hover,
-.button:active{
+.button:focus{
     background-color:#404BBF;
     color: #ffffff;
 }
@@ -142,6 +142,9 @@ body{
 }
 
 .footer-section{
+    background-color: #2E2F42;
+}
+.footer{
     background-color: #2E2F42;
 }
 .footer .logo{
