@@ -26,13 +26,26 @@ button{
     font-size:16px;
     letter-spacing: 4%;
     line-height: 24px;
+    background-color: #4D5AE5;
+    color:white;
+}
+button:hover{
+    background-color:#404BBF;
 }
 a{
     font-size:12px;
+    color: black;
     letter-spacing: 4%;
     line-height: 16px;
-    text-decoration:underline;
+    text-decoration: none;
 }
+a:hover{
+    color: #404BBF;
+}
+a:active{
+    text-decoration: #404BBF underline;
+}
+
 footer{
     background-color: #2E2F42;
 }
