@@ -97,7 +97,7 @@ footer{
 .our-team{
     background-color: #F4F4FD;
 }
-.our-team .h2{
+.our-team .h22{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -118,28 +118,28 @@ footer{
 }
 
 
-.section2-ul li .h3{
+.section2-ul li .h33{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section2-ul li .p{
+.section2-ul li .ppp{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.section3-ul li .h3{
+.section3-ul li .h33{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section3-ul li .p{
+.section3-ul li .ppp{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -155,14 +155,14 @@ footer{
     color: #2e2f42;
 }
 
-.section4-ul li .h3{
+.section4-ul li .h33{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section4-ul li .p{
+.section4-ul li .ppp{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -185,7 +185,7 @@ footer{
 .footer .logo .span{
     color: #F4F4FD;
 }
-.footer .p{
+.footer .ppp{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
