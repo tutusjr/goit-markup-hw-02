@@ -23,44 +23,28 @@ body{
 .span{
     color: #2E2F42;
 }
-.list-1{
+.header-ul li{
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.list-1:hover,
-.list-1:active{
+.header-ul li:hover,
+.header-ul li:active{
     color: #404bbf;
 }
 .address{
     font-style: normal;
 }
-.address-link{
+.address-link li{
     color: #434455;
     letter-spacing: 0.02em;
     line-height: 1.5;
 }
-.address-link:hover,
-.address-link:active{
+.address-link li:hover,
+.address-link li:active{
     color: #404BBF;
-}
-h1{
-    font-weight: bold;
-    font-size:56px;
-    letter-spacing: 2%;
-    line-height: 60px;
-}
-h2{
-    font-weight: bold;
-    font-size:36px;
-    letter-spacing: 2%;
-}
-h3{
-    font-weight: medium;
-    font-size: 20px;
-    letter-spacing: 2%;
 }
 .button{
     font-weight: 500;
@@ -77,24 +61,6 @@ h3{
     background-color:#404BBF;
     color: #ffffff;
 }
-a{
-    font-size:12px;
-    color: black;
-    letter-spacing: 4%;
-    line-height: 16px;
-    text-decoration: none;
-}
-a:hover{
-    color: #404BBF;
-}
-a:active{
-    text-decoration: #404BBF underline;
-}
-
-footer{
-    background-color: #2E2F42;
-}
-
 .our-team{
     background-color: #F4F4FD;
 }
@@ -134,7 +100,7 @@ footer{
 }
 
 .section-3{
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
 
 .section3-ul li .h33{
