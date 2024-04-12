@@ -23,27 +23,27 @@ body{
 .span{
     color: #2E2F42;
 }
-.header-ul .list{
+.header-ul .list .etiket{
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.header-ul .list:hover,
-.header-ul .list:active{
+.header-ul .list .etiket:hover,
+.header-ul .list .etiket:active{
     color: #404bbf;
 }
 .address{
     font-style: normal;
 }
-.address-link .list{
+.address-link .list .etiket{
     color: #434455;
     letter-spacing: 0.02em;
     line-height: 1.5;
 }
-.address-link .list:hover,
-.address-link .list:active{
+.address-link .list .etiket:hover,
+.address-link .list .etiket:active{
     color: #404BBF;
 }
 .button{
