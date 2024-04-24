@@ -7,7 +7,7 @@ body{
     line-height: 24px;
     letter-spacing: 2%;
 }
-.nav{
+.home-navbar{
     background-color: #FFFFFF;
     
 }
@@ -65,7 +65,7 @@ body{
 .our-team{
     background-color: #F4F4FD;
 }
-.our-team .h22{
+.section-header{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -89,14 +89,14 @@ body{
     background-color: #FFFFFF;
 }
 
-.section2-ul .list .h33{
+.section-ul .list .subtitle{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section2-ul .list .ppp{
+.section-ul .list .text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -105,43 +105,6 @@ body{
 
 .section-3{
     background-color: #ffffff;
-}
-
-.section3-ul .list .h33{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.section3-ul .list .ppp{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.our-portfolio{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-}
-
-.section4-ul .list .h33{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.section4-ul .list .ppp{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .footer-section{
@@ -163,7 +126,7 @@ body{
 .footer .logo .span{
     color: #F4F4FD;
 }
-.footer .ppp{
+.footer .text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
