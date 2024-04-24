@@ -63,7 +63,7 @@ body{
 }
 
 .our-team{
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 .section-header{
     font-size: 36px;
@@ -86,6 +86,10 @@ body{
 }
 
 .section2{
+    background-color: #FFFFFF;
+}
+
+.section-ul .list{
     background-color: #FFFFFF;
 }
 
